@@ -23,11 +23,6 @@
 The best problem-solvers aren't defined by their job title. They're defined by the hunt.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheVenetianWolf&show_icons=true&hide_border=true&title_color=00f0ff&icon_color=ff2bd1&text_color=e9e6ff&bg_color=07050d" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVenetianWolf&layout=compact&hide_border=true&title_color=c6ff3d&text_color=e9e6ff&bg_color=07050d" alt="Top languages" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheVenetianWolf/TheVenetianWolf/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheVenetianWolf/TheVenetianWolf/output/github-contribution-grid-snake.svg">
@@ -36,5 +31,5 @@ The best problem-solvers aren't defined by their job title. They're defined by t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00f0ff,100:07050d&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00f0ff,100:07050d&section=footer" width="100%" alt="footer wave" />
 </p>
